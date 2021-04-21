@@ -1,0 +1,13 @@
+import Header from './Heder.js'
+
+function ProductList(){
+    return (
+        <div>
+            <Header />
+            <h1>Product List</h1>
+
+        </div>
+    )
+}
+
+export default ProductList;
